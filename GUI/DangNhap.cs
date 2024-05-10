@@ -107,8 +107,6 @@ namespace GUI
 
         private void DangNhap_Load(object sender, EventArgs e)
         {
-            txtUser.Text = "admin1";
-            txtpass.Text = "p1234";
         }
     }
 }
